@@ -1,5 +1,5 @@
 /**
- * Created by zejian on 2016/10/21.
+ * Created by zejian
  * 单向链表节点
  */
 
